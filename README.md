@@ -6,5 +6,5 @@
 
 3. git push
 
-4. add something
+4. add something for branch
 5. add branch
